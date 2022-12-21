@@ -1,2 +1,6 @@
 # Project02
-build and connect base contents of BackEnd
+
+목표
+- 백엔드 전반 구현
+- 각 컨텐츠에 대한 정확한 숙지
+- 성능 향상에 대한 고찰
